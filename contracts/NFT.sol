@@ -21,7 +21,7 @@ contract NFT is ERC721Enumerable, Ownable {
     //central server (cloudinary, file storage, firestore, github)
     //IPFS (decentralized file storage), arweave.
 
-    constructor() ERC721("HeroNFT", "NFT") {}
+    constructor() ERC721("KZCashFirstNFT", "NFT") {}
 
     //ON-CHAIN DATA
     //EVENT
